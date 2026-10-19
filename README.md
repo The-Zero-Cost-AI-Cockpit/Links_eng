@@ -1,7 +1,7 @@
 # The Zero-Cost AI Cockpit
 ## Build Your Professional Enterprise Cockpit
 
-Welcome to the official repository for the book **"The Zero-Cost AI Cockpit"**. In this project you'll find the companion web resources, link directories, and templates to build your own digital command center.
+Welcome to the official repository for the book **"The Zero-Cost AI Cockpit"**. In this project you'll find the companion web resources and link directories to build your own digital command center.
 
 ---
 
@@ -32,15 +32,14 @@ Everything you need to build your cockpit is ready to go in no time: A web brows
 
 This repository contains the source file for the book's companion website:
 
-* `index.html`: The central link directory with all resources, downloads, and AI tools.
+* `index.html`: The central link directory with all resources and AI tools.
 
 ---
 
 ## 🎁 Bonus Material
-The link directory also includes:
-* **Cheat Sheet:** All key prompts and tools at a glance.
-* **Live Showcase:** Diagram templates with prompts for direct replication.
-* **Two Demo Cockpits:** Download, open in your browser, and adapt to your own business.
+The link directory gives you access to all companion resources:
+* **Two Demo Cockpits** (Basic & Smart): live view and source code on GitHub – [Demo Cockpit](https://the-zero-cost-ai-cockpit.github.io/Demo-Cockpit_eng/) · [Demo Cockpit Smart](https://the-zero-cost-ai-cockpit.github.io/Demo_Cockpit_smart_eng/)
+* **Live Showcase:** Diagram templates with AI prompts for direct replication – [Showcase](https://the-zero-cost-ai-cockpit.github.io/Showcase_eng/)
 * **Link Directory:** [the-zero-cost-ai-cockpit.github.io/Links_eng](https://the-zero-cost-ai-cockpit.github.io/Links_eng)
 
 ---

@@ -14,14 +14,14 @@ Large corporations rely on two critical pillars for their digital transformation
 
 But for SMEs, project managers, and consultants, reality looks quite different: Complex EAM and ERP software costs a fortune, Microsoft Excel drowns in formula chaos, and expensive cloud subscriptions eat into margins.
 
-Here you'll learn how to bypass this bottleneck. You'll build your own license-free zero-cost cockpit that seamlessly merges strategic planning with operational control and absolute clarity.
+Here you'll learn how to bypass this bottleneck. You'll build your own license-free zero-cost cockpit that combines strategic planning with operational control and clear visibility.
 
-The best part: It's surprisingly simple. Anyone who can logically structure a PowerPoint presentation or create a simple sum in Excel can complete this project — no computer science degree or programming skills required. Guaranteed!
+The best part: It's surprisingly simple. Anyone who can logically structure a PowerPoint presentation or create a simple sum in Excel can complete this project — no computer science degree or programming skills required.
 
 Everything you need to build your cockpit is ready to go in no time: A web browser, a text editor, and the command line already come with your system out of the box. The only new tool we'll add is the Ollama app for your local AI. Don't worry: In the terminal, we'll work almost exclusively with simple copy-and-paste.
 
 ### What you'll learn step by step:
-* **Maintain data sovereignty:** Work with local models (Ollama). This way, sensitive financial or customer data never leaves your computer.
+* **Maintain data sovereignty:** Work with local models (Ollama) so sensitive financial or customer data stays on your own computer.
 * **Master structures:** Save yourself tedious modeling work! Let the AI automatically translate complex processes, IT landscapes, and figures into diagrams and dashboards in seconds.
 * **Identify risks:** Build interactive knowledge graphs that instantly reveal bottlenecks and hidden dependencies in your business.
 * **Build the Smart Cockpit:** Combine all the puzzle pieces into a single, local HTML file — with built-in AI that independently updates your cockpit with live data.
